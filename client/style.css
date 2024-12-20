@@ -83,6 +83,16 @@ p {
     animation-duration: 3s;
 }
 
+.message--system {
+  padding: 30px;
+}
+
+.message--system .message__content{
+  background: lightgray;
+  color: black;
+  padding: 30px;
+}
+
 .message__author {
   font-size: 0.8rem;
   font-weight: bold;
